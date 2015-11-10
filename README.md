@@ -13,8 +13,8 @@ Simple and small Rainmeter widget that displays the essentials (time, day, date,
   - Position to "Stay topmost"
   - On hover to "Hide"
   - Make sure "Click through", "Keep in screen", "Save position", and "Snap to edges" are checked.
-  * Repeat for "MainInfo-Widget\InfoBottom" except set coordinates to the bottom right of the screen
-4. Load the preferred module
+4. Repeat step 3 for "MainInfo-Widget\InfoBottom" except set coordinates to the bottom right of the screen
+5. Load the preferred module
 
 ## How to use
 The idea behind this widget is that the user can hide the taskbar and still have the important information at all times. This will usable increase screen space.
