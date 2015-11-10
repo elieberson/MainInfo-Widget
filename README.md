@@ -8,10 +8,10 @@ Simple and small Rainmeter widget that displays the essentials (time, day, date,
 ## Setup
 There are two methods for setting this up:
 
-### Easy Way
+### Easy Way ###
 1. Run the "MainInfo_1.3.rmskin" file. This will load everything and set the necessary parameters. This will load the "white" version. If the "colored" version is desired, follow the next steps.
 
-### Harder Way
+### Harder Way ###
 1. Move this folder with the rest of the skins in Rainmaker. Will probably be under "C:\Users\<user>\Documents\Rainmeter\Skins"
 2. Open rainmeter context menu. One method of doing this is opening cmd, navigating to the rainmeter program, probably found at "C:\Program Files\Rainmeter" and then calling `Rainmeter.exe !Manage`
 3. Inside the menu, Go to "MainInfo-Widget\InfoTop" and select colored or white.
