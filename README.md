@@ -9,7 +9,7 @@ Simple and small Rainmeter widget that displays the essentials (time, day, date,
 There are two methods for setting this up:
 
 ### Easy Way ###
-1. Run the "MainInfo_1.3.1.rmskin" file. This will load everything and set the necessary parameters. This will load the "white" version. If the "colored" version is desired, follow the next steps.
+1. Run the "MainInfo_x.x.x.rmskin" file. This will load everything and set the necessary parameters. This will load the "white" version. If the "colored" version is desired, follow the next steps.
 
 ### Harder Way ###
 1. Move this folder with the rest of the skins in Rainmaker. Will probably be under "C:\Users\<user>\Documents\Rainmeter\Skins"
