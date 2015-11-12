@@ -22,8 +22,8 @@ There are two methods for setting this up:
 4. Repeat step 3 for "MainInfo-Widget\InfoBottom" except set coordinates to the bottom right of the screen
 5. Load the preferred module
 
-## How to use
-The idea behind this widget is that the user can hide the taskbar and still have the important information at all times. This will usable increase screen space.
+## Use
+The idea behind this widget is that the user can hide the taskbar and still have the important information at all times. This will usable increase screen space. The battery indicator shows percentage, on battery, charging, and low (20%) states. The ring around the battery decreases and changes color as battery level changes.
 
 Generally, the widget will always stay at the top of all programs. This include videos and other full screen applications. This may be annoying so there are several ways to deal with this.
 
