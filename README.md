@@ -1,5 +1,5 @@
 # MainInfo-Widget
-Simple and small Rainmeter widget that displays the essentials (time, day, date, and battery) and also has a few other handy tools
+Simple and small Rainmeter widget that displays the essentials and with a few extra tools. Displays time, date, and battery levels.
 
 ## Requirements
 - Install Rainmeter
@@ -8,13 +8,13 @@ Simple and small Rainmeter widget that displays the essentials (time, day, date,
 ## Setup
 There are two methods for setting this up:
 
-### Easy Way ###
-1. Run the "MainInfo_x.x.x.rmskin" file. This will load everything and set the necessary parameters. This will load the "white" version. If the "colored" version is desired, follow the next steps.
+### Easy Way
+1. Run the "MainInfo_x.x.rmskin" file. This will load everything and set the necessary parameters
 
-### Harder Way ###
+### Harder Way
 1. Move this folder with the rest of the skins in Rainmaker. Will probably be under "C:\Users\<user>\Documents\Rainmeter\Skins"
 2. Open rainmeter context menu. One method of doing this is opening cmd, navigating to the rainmeter program, probably found at "C:\Program Files\Rainmeter" and then calling `Rainmeter.exe !Manage`
-3. Inside the menu, Go to "MainInfo-Widget\InfoTop" and select colored or white.
+3. Inside the menu, Go to "MainInfo-Widget\InfoTop" or "MainInfo-Widget\InfoBottom" and select MainInfo
   - Set the coordinates to the top right of the screen
   - Position to "Stay topmost"
   - On hover to "Hide"
@@ -29,4 +29,4 @@ Generally, the widget will always stay at the top of all programs. This include 
 
 1. If there is something directly behind the widget, just roll the mouse over it. The widget is click-throughable and will also temporarly disappear while the mouse is over it.
 2. Hold Shift and scroll over the widget. This time, it will not disappear. Right click and the widget will jump to the other side of the screen. Top will go to bottom and bottom will go to top.
-3. Hold Shift and scroll over the widget. Left click and the widget will disapear. TO get the widget back, just hold Shift, scroll back to where the widget was last seen and left click again. The widget will reappear.
+3. Hold Shift and scroll over the widget. Left click and the widget will disapear. To get the widget back, just hold Shift, scroll back to where the widget was last seen and left click again. The widget will reappear.
